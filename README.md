@@ -29,13 +29,13 @@ If you want to register ActiveX, this gonna to work as well. Just run this softw
 <a href="http://www.lionsea.com/product_activexcontrolfixerpro.php"><img src="http://www.lionsea.com/image/icons/fixer/Activex_Control_Fixer/main2.png" /></a>
 
 
-What errors can this utility fix? Please read more: 
+What errors can this utility fix? Please read more: <br />
 
-<a href="http://www.windows8downloads.com/win8-smart-activex-control-fixer-pro-htkwxwys/">activex steuerelement</a>
-<a href="http://smart-activex-control-fixer-pro.updatestar.com/en">shockwave activex control swdir dll</a>
-<a href="http://smart-activex-control-fixer-pro.software.informer.com/">enable activex controls</a>
-<a href="http://smart-activex-control-fixer-pro.soft112.com/">Adobe Flash Player 10 ActiveX</a>
-<a href="http://www.youtube.com/watch?v=7vRVrA6P7pk">windows développement activex</a>
-<a href="http://davidsun.webs.com/ ">activex steuerelemente</a>
-<a href="http://windows.en.all-softwares.com/Smart-ActiveX-Control-Fixer-Pro/4-333-1035_8572.php">macromedia flash activex control</a>
-<a href="https://archive.org/details/HowTofixActivexControl">install activex control windows 7</a>
+<a href="http://www.windows8downloads.com/win8-smart-activex-control-fixer-pro-htkwxwys/">activex steuerelement</a><br />
+<a href="http://smart-activex-control-fixer-pro.updatestar.com/en">shockwave activex control swdir dll</a><br />
+<a href="http://smart-activex-control-fixer-pro.software.informer.com/">enable activex controls</a><br />
+<a href="http://smart-activex-control-fixer-pro.soft112.com/">Adobe Flash Player 10 ActiveX</a><br />
+<a href="http://www.youtube.com/watch?v=7vRVrA6P7pk">windows développement activex</a><br />
+<a href="http://davidsun.webs.com/ ">activex steuerelemente</a><br />
+<a href="http://windows.en.all-softwares.com/Smart-ActiveX-Control-Fixer-Pro/4-333-1035_8572.php">macromedia flash activex control</a><br />
+<a href="https://archive.org/details/HowTofixActivexControl">install activex control windows 7</a><br />
